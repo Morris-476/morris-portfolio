@@ -185,9 +185,11 @@ photo: '/images/certs/檔名.jpg'
 
 ## 九、部署資訊
 
-- **平台**：Vercel（推薦）
-- **流程**：GitHub push → Vercel 自動重新部署，URL 不變
-- **注意**：`vite.config.js` 未設定 base，部署前確認 Vercel 自動偵測為 Vite 即可
+- **平台**：Vercel（Hobby 免費方案，無時間限制）
+- **網址**：https://morris-portfolio-steel.vercel.app/
+- **GitHub**：https://github.com/Morris-476/morris-portfolio
+- **流程**：本地修改 → `git add / commit / push` → Vercel 自動重新部署（約 1–2 分鐘）
+- **注意**：`vite.config.js` 未設定 base，Vercel 已正確偵測為 Vite
 
 ---
 

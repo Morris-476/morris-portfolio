@@ -275,19 +275,23 @@ export default function HeroAbout() {
                 top="4%" right="-2px" delay={2.2} duration={4.3} />
               {/* 2: Top-left — 系排名 */}
               <FloatChip iconType="rank" iconColor="#2E75B6"
-                label="系排名" value="前 17.5%"
+                label="系排名" value="前 14.8%"
                 top="12%" left="0px" delay={2.8} duration={4.7} />
               {/* 3: Mid-left — GPA */}
               <FloatChip iconType="trend" iconColor="#1D9E75"
                 label="GPA" value="3.53 / 4.0"
                 top="44%" left="-4px" delay={3.1} duration={4.5} />
+              {/* 3b: Mid-right — 創新創業 */}
+              <FloatChip iconType="star" iconColor="#22c55e"
+                label="創新創業競賽" value="全校第三名"
+                top="28%" right="-2px" delay={3.4} duration={4.6} />
               {/* 4: Bottom-right — TOEIC */}
               <FloatChip iconType="globe" iconColor="#534AB7"
                 label="TOEIC" value="840 分"
                 bottom="14%" right="-2px" delay={2.5} duration={5.0} />
               {/* 5: Bottom — 證照 */}
               <FloatChip iconType="cert" iconColor="#0ea5e9"
-                label="已取得證照" value="8+ 張"
+                label="已取得證照" value="9+ 張"
                 bottom="2%" left="18%" delay={3.5} duration={4.2} />
             </div>
           </div>

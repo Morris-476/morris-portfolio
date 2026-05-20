@@ -5,7 +5,7 @@ export const profile = {
   nameEn: 'Morris',
   school: '淡江大學 · 資訊管理系 · 輔修資訊工程系 · 大三',
   gpa: '3.53 / 4.0',
-  rank: '前 17.5%',
+  rank: '前 14.8%',
   email: 'happymorrission@gmail.com',
   phone: '0928-733-773',
   github: 'https://github.com/Morris-476',
@@ -25,11 +25,11 @@ export const roles = [
 ]
 
 export const stats = [
-  { value: 8,    suffix: '+', label: '證照' },
+  { value: 9,    suffix: '+', label: '證照' },
   { value: 3,    suffix: '',  label: '專案' },
   { value: 4,    suffix: '',  label: '競賽' },
   { value: 840,  suffix: '',  label: 'TOEIC' },
-  { value: 17.5, suffix: '%', label: '系排名' },
+  { value: 14.8, suffix: '%', label: '系排名' },
 ]
 
 // ── 技能 ─────────────────────────────────────────────────
@@ -122,6 +122,7 @@ export const competitions = [
     title: '2026 亞太博覽會代表',
     badge: '確定出席', type: 'blue',
     desc: '與淡江大學總務處進行合作，利用隨處可得之硬體工具，結合學生自主開發之系統，大幅降低作業人力成本。通過淡江大學生活實驗室競賽第一階段審核，確定代表學校在國際舞台展示研究成果。',
+    docUrl:'https://github.com/jump0423/Tree-Trunk-Measurement.git',
     images: [],
   },
   {
@@ -135,8 +136,9 @@ export const competitions = [
   {
     id: 'c4', emoji: '🚀',
     title: '淡江大學創新創業競賽 / U-START',
-    badge: '進行中', type: 'green',
-    desc: '以固碳量測系統為基礎提出創新計畫，結合社會環保價值與技術創新。',
+    badge: '全校第三名', type: 'green',
+    desc: '以固碳量測系統為基礎提出創新計畫，結合社會環保價值與技術創新。與49組隊伍中，通過初賽，並於複賽取得創新組全校第三。',
+    docUrl:'https://canva.link/wfxdvtrrr8qvma5',
     images: [],
   },
 ]
@@ -149,7 +151,7 @@ export const certs = [
   { id: 'ce3', emoji: '📝',  name: 'TQC Word 2021',          org: 'TQC',       status: 'done',    photo: '/images/certs/TQC Word.jpg' },
   { id: 'ce4', emoji: '🎨',  name: 'ACP Photoshop CC',       org: 'Adobe',     status: 'pending', photo: null },
   { id: 'ce5', emoji: '🎬',  name: 'ACP Premiere Pro',       org: 'Adobe',     status: 'done',    photo: '/images/certs/ACP Premiere Pro.jpg' },
-  { id: 'ce6', emoji: '🤖',  name: 'IPAS 初級 AI 應用規劃師', org: '經濟部',    status: 'pending', photo: null },
+  { id: 'ce6', emoji: '🤖',  name: 'IPAS 初級 AI 應用規劃師', org: '經濟部',    status: 'done',    photo: null },
   { id: 'ce7', emoji: '📊',  name: 'TQC Excel 2021',         org: 'TQC',       status: 'pending', photo: null },
 ]
 
