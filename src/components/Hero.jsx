@@ -205,7 +205,7 @@ export default function Hero() {
               width: 8, height: 8, borderRadius: '50%',
               background: '#22c55e', display: 'inline-block',
             }} />
-            現正尋求 2026 年 7–8 月暑期實習
+            現正尋求實習機會
           </div>
 
           {/* Name */}

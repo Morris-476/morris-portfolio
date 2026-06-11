@@ -310,7 +310,7 @@ export default function HeroAbout() {
               fontFamily: 'Inter', width: 'fit-content',
             }}>
               <span className="glow-dot" style={{ width:7, height:7, borderRadius:'50%', background:'#22c55e', display:'inline-block' }} />
-              現正尋求 2026 年 7–8 月暑期實習
+              現正尋求實習機會
             </div>
 
             {/* Name */}

@@ -149,10 +149,10 @@ export const certs = [
   { id: 'ce1', emoji: '☁️',  name: 'MCF PL-900',            org: 'Microsoft', status: 'done',    photo: '/images/certs/MCF PL-900.jpg' },
   { id: 'ce2', emoji: '🐍',  name: 'TQC Python',             org: 'TQC',       status: 'done',    photo: '/images/certs/TQC Python.jpg' },
   { id: 'ce3', emoji: '📝',  name: 'TQC Word 2021',          org: 'TQC',       status: 'done',    photo: '/images/certs/TQC Word.jpg' },
-  { id: 'ce4', emoji: '🎨',  name: 'ACP Photoshop CC',       org: 'Adobe',     status: 'pending', photo: null },
+  { id: 'ce4', emoji: '🎨',  name: 'ACP Photoshop CC',       org: 'Adobe',     status: 'done',    photo: null },
   { id: 'ce5', emoji: '🎬',  name: 'ACP Premiere Pro',       org: 'Adobe',     status: 'done',    photo: '/images/certs/ACP Premiere Pro.jpg' },
   { id: 'ce6', emoji: '🤖',  name: 'IPAS 初級 AI 應用規劃師', org: '經濟部',    status: 'done',    photo: null },
-  { id: 'ce7', emoji: '📊',  name: 'TQC Excel 2021',         org: 'TQC',       status: 'pending', photo: null },
+  { id: 'ce7', emoji: '📊',  name: 'TQC Excel 2021',         org: 'TQC',       status: 'done',    photo: null },
 ]
 
 // ── 學習歷程亮點 ──────────────────────────────────────────
